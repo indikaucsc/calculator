@@ -1,19 +1,8 @@
 # Calculator Mobile Application Using Java
 
-### Self-Study Project
-
-**MIT 581-2 – Android App Development**
 
 **Project Name:** Calculator Mobile Application Using Java Language
 
-**Student Registration No:** UWU/PGU/MIT/23/112  
-**Student Name:** N W K K Indika
-
----
-
-## Master of Information Technology  
-**Postgraduate Unit / Board of Study - Computing and Informatics**  
-**Uva Wellassa University of Sri Lanka**
 
 ---
 
@@ -76,7 +65,7 @@ The Android Calculator Application is designed to perform basic arithmetic opera
 
 ### Version Control
 
-- **Repository:** [GitHub Repository Link](#)
+- **Repository:** [GitHub Repository Link](#https://github.com/indikaucsc/calculator/)
 
 ---
 

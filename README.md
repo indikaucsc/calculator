@@ -61,7 +61,7 @@ The Android Calculator Application is designed to perform basic arithmetic opera
 
 - **IDE:** Android Studio (2024.1.1)
 - **Programming Language:** Java (java version "17.0.10" 2024-01-16 LTS)
-- **Libraries & Tools:** (Details to be included based on the specific libraries and tools used)
+- **Libraries & Tools:** (xml)
 
 ### Version Control
 

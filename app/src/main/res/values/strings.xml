@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CalC</string>
+
+    <string name="btn_one">1</string>
+    <string name="btn_two">2</string>
+    <string name="btn_three">3</string>
+    <string name="btn_four">4</string>
+    <string name="btn_five">5</string>
+    <string name="btn_six">6</string>
+    <string name="btn_seven">7</string>
+    <string name="btn_eight">8</string>
+    <string name="btn_nine">9</string>
+    <string name="btn_zero">0</string>
+
+    <string name="btn_dot">.</string>
+    <string name="btn_add">+</string>
+    <string name="btn_min">-</string>
+    <string name="btn_mul">x</string>
+    <string name="btn_dev">/</string>
+    <string name="btn_eql">=</string>
+    <string name="btn_pow">^</string>
+    <string name="btn_root">v</string>
+    <string name="btn_clear">AC</string>
+
+</resources>

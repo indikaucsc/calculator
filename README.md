@@ -65,7 +65,7 @@ The Android Calculator Application is designed to perform basic arithmetic opera
 
 ### Version Control
 
-- **Repository:** [GitHub Repository Link](#https://github.com/indikaucsc/calculator/)
+- **Repository:** [https://github.com/indikaucsc/calculator/](#)
 
 ---
 
